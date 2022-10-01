@@ -1,0 +1,58 @@
+
+/* Mobile image */
+.mobile-image {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem; 
+}
+
+
+@media only screen and (min-width: 90em) {
+ #bg-image {
+    
+
+
+    
+    
+ } 
+
+ #bg-image {
+    
+    background: linear-gradient(180deg, #4851FF 0%, #F02AA6 100%);
+
+
+ }
+
+
+}
+
+
+/* This is my footer section, I will use letter */
+/*
+.footer {
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #13183F;
+    
+    
+}
+.footer-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 21.4375rem;
+    height: 3rem;
+    padding: 1rem;
+    top: 158.1875rem;
+    
+}
+
+.footer {
+    width: 23.4375rem;
+    height: 7.5rem;
+    top: 155.9375rem;
+}
+*/
+
+
